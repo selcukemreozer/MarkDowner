@@ -1,3 +1,13 @@
+---
+title: Markdowner
+emoji: 🍃
+colorFrom: green
+colorTo: gray
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Markdowner
 
 Convert your files to clean **Markdown** — in the browser or from the terminal. Powered by Microsoft's [markitdown](https://github.com/microsoft/markitdown).
