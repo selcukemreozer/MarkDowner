@@ -1,0 +1,2 @@
+[console_scripts]
+markdowner = file_converter:main
